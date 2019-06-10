@@ -1,0 +1,94 @@
+docker save gcr.io/jenkinsxio/builder-maven:0.1.451 -o  gcr_ioTjenkinsxioTbuilder-mavenVV0_1_451.tar
+docker save jenkinsxio/exposecontroller:2.3.89 -o  jenkinsxioTexposecontrollerVV2_3_89.tar
+docker save gcr.io/jenkinsxio/builder-go:0.1.451 -o  gcr_ioTjenkinsxioTbuilder-goVV0_1_451.tar
+docker save gcr.io/jenkinsxio/prow/tide:v20190411-88a8176fb -o  gcr_ioTjenkinsxioTprowTtideVVv20190411-88a8176fb.tar
+docker save gcr.io/jenkinsxio/prow/hook:v20190411-88a8176fb -o  gcr_ioTjenkinsxioTprowThookVVv20190411-88a8176fb.tar
+docker save jenkinsxio/jx:2.0.118 -o  jenkinsxioTjxVV2_0_118.tar
+docker save quay.io/helmpack/chartsvc:v1.8.0 -o  quay_ioThelmpackTchartsvcVVv1_8_0.tar
+docker save quay.io/helmpack/chart-repo:v1.8.0 -o  quay_ioThelmpackTchart-repoVVv1_8_0.tar
+docker save quay.io/helmpack/monocular-ui:v1.8.0 -o  quay_ioThelmpackTmonocular-uiVVv1_8_0.tar
+docker save gcr.io/jenkinsxio/prow/tide-1:v20190411-88a8176fb -o  gcr_ioTjenkinsxioTprowTtide-1VVv20190411-88a8176fb.tar
+docker save gcr.io/jenkinsxio/builder-maven-1:0.1.451 -o  gcr_ioTjenkinsxioTbuilder-maven-1VV0_1_451.tar
+
+================================================================================================================================================
+docker save mybuildermaven:v1 -o  mybuildermavenVVv1.tar
+docker save my-mongodb:v1 -o  my-mongodbVVv1.tar
+docker save gcr.io/kubernetes-helm/tiller:v2.14.0 -o  gcr_ioTkubernetes-helmTtillerVVv2_14_0.tar
+docker save gcr.io/jenkinsxio/builder-maven-b:v1 -o  gcr_ioTjenkinsxioTbuilder-maven-bVVv1.tar
+docker save jenkinsxio/jx-1:2.0.118 -o  jenkinsxioTjx-1VV2_0_118.tar
+docker save jenkins/jenkins:lts -o  jenkinsTjenkinsVVlts.tar
+docker save 10.104.61.235:5000/bosybox:v1.0 -o  10_104_61_235:5000TbosyboxVVv1_0.tar
+docker save busybox:latest -o  busyboxVVlatest.tar
+docker save mysql:5 -o  mysqlVV5.tar
+docker save gcr.io/jenkinsxio/builder-go:0.1.437 -o  gcr_ioTjenkinsxioTbuilder-goVV0_1_437.tar
+docker save steveltn/https-portal:1 -o  steveltnThttps-portalVV1.tar
+docker save jenkinsxio/jx:2.0.1 -o  jenkinsxioTjxVV2_0_1.tar
+docker save gcr.io/jenkinsxio/prow/crier:v20190411-88a8176fb -o  gcr_ioTjenkinsxioTprowTcrierVVv20190411-88a8176fb.tar
+docker save gcr.io/jenkinsxio/prow/horologium:v20190411-88a8176fb -o  gcr_ioTjenkinsxioTprowThorologiumVVv20190411-88a8176fb.tar
+docker save gcr.io/jenkinsxio/prow/pipeline:v20190411-88a8176fb -o  gcr_ioTjenkinsxioTprowTpipelineVVv20190411-88a8176fb.tar
+docker save gcr.io/jenkinsxio/prow/plank:v20190411-88a8176fb -o  gcr_ioTjenkinsxioTprowTplankVVv20190411-88a8176fb.tar
+docker save gcr.io/jenkinsxio/prow/hook-1:v20190411-88a8176fb -o  gcr_ioTjenkinsxioTprowThook-1VVv20190411-88a8176fb.tar
+docker save gcr.io/jenkinsxio/prow/sinker:v20190411-88a8176fb -o  gcr_ioTjenkinsxioTprowTsinkerVVv20190411-88a8176fb.tar
+docker save gcr.io/jenkinsxio/prow/deck:v20190411-88a8176fb -o  gcr_ioTjenkinsxioTprowTdeckVVv20190411-88a8176fb.tar
+docker save k8s.gcr.io/kube-proxy:v1.14.1 -o  k8s_gcr_ioTkube-proxyVVv1_14_1.tar
+docker save mirrorgooglecontainers/kube-proxy:v1.14.1 -o  mirrorgooglecontainersTkube-proxyVVv1_14_1.tar
+docker save k8s.gcr.io/kube-apiserver:v1.14.1 -o  k8s_gcr_ioTkube-apiserverVVv1_14_1.tar
+
+
+================================================================================================================================================
+
+
+docker save k8s.gcr.io/kube-controller-manager:v1.14.1 -o  k8s_gcr_ioTkube-controller-managerVVv1_14_1.tar
+docker save mirrorgooglecontainers/kube-controller-manager:v1.14.1 -o  mirrorgooglecontainersTkube-controller-managerVVv1_14_1.tar
+docker save k8s.gcr.io/kube-scheduler-amd64:v1.11.1 -o  k8s_gcr_ioTkube-scheduler-amd64VVv1_11_1.tar
+docker save k8s.gcr.io/kube-scheduler:v1.14.1 -o  k8s_gcr_ioTkube-schedulerVVv1_14_1.tar
+docker save mirrorgooglecontainers/kube-scheduler:v1.14.1 -o  mirrorgooglecontainersTkube-schedulerVVv1_14_1.tar
+docker save gcr.io/abayer-jx-experiment/bash:v20190508-91b53326 -o  gcr_ioTabayer-jx-experimentTbashVVv20190508-91b53326.tar
+docker save gcr.io/abayer-jx-experiment/entrypoint:v20190508-91b53326 -o  gcr_ioTabayer-jx-experimentTentrypointVVv20190508-91b53326.tar
+docker save jenkinsxio/jenkinsx:0.0.53 -o  jenkinsxioTjenkinsxVV0_0_53.tar
+docker save jenkinsxio/jx-app-jacoco:0.0.123 -o  jenkinsxioTjx-app-jacocoVV0_0_123.tar
+docker save rawlingsj/builder-jx:wip34 -o  rawlingsjTbuilder-jxVVwip34.tar
+docker save gcr.io/jenkinsxio/nexus:0.1.7 -o  gcr_ioTjenkinsxioTnexusVV0_1_7.tar
+docker save registry:2.6.2 -o  registryVV2_6_2.tar
+docker save registry:latest -o  registryVVlatest.tar
+docker save jenkinsxio/jx:1.3.965 -o  jenkinsxioTjxVV1_3_965.tar
+docker save gcr.io/kaniko-project/executor:9912ccbf8d22bbafbf971124600fbb0b13b9cbd6 -o  gcr_ioTkaniko-projectTexecutorVV9912ccbf8d22bbafbf971124600fbb0b13b9cbd6.tar
+docker save jenkinsxio/exposecontroller:2.3.95 -o  jenkinsxioTexposecontrollerVV2_3_95.tar
+docker save gcr.io/abayer-jx-experiment/git-init:v20190508-91b53326 -o  gcr_ioTabayer-jx-experimentTgit-initVVv20190508-91b53326.tar
+docker save gcr.io/abayer-jx-experiment/creds-init:v20190508-91b53326 -o  gcr_ioTabayer-jx-experimentTcreds-initVVv20190508-91b53326.tar
+docker save gcr.io/abayer-jx-experiment/creds-init:v20190308-186ac3b6 -o  gcr_ioTabayer-jx-experimentTcreds-initVVv20190308-186ac3b6.tar
+docker save bitnami/mongodb:4.0.3 -o  bitnamiTmongodbVV4_0_3.tar
+
+
+
+================================================================================================================================================
+
+
+docker save gcr.io/jenkinsxio/exposecontroller:2.3.110 -o  gcr_ioTjenkinsxioTexposecontrollerVV2_3_110.tar
+docker save jenkinsxio/exposecontroller-1:2.3.89 -o  jenkinsxioTexposecontroller-1VV2_3_89.tar
+docker save quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.22.0 -o  quay_ioTkubernetes-ingress-controllerTnginx-ingress-controllerVV0_22_0.tar
+docker save k8s.gcr.io/coredns:1.3.1 -o  k8s_gcr_ioTcorednsVV1_3_1.tar
+docker save k8s.gcr.io/etcd:3.3.10 -o  k8s_gcr_ioTetcdVV3_3_10.tar
+docker save mirrorgooglecontainers/etcd:3.3.10 -o  mirrorgooglecontainersTetcdVV3_3_10.tar
+docker save jenkinsci/jnlp-slave:3.26-1-alpine -o  jenkinsciTjnlp-slaveVV3_26-1-alpine.tar
+docker save bitnami/mongodb:3.6.6-debian-9 -o  bitnamiTmongodbVV3_6_6-debian-9.tar
+docker save chartmuseum/chartmuseum:v0.7.1 -o  chartmuseumTchartmuseumVVv0_7_1.tar
+docker save bitnami/monocular-ui:v0.7.3 -o  bitnamiTmonocular-uiVVv0_7_3.tar
+docker save bitnami/monocular-api:v0.7.3 -o  bitnamiTmonocular-apiVVv0_7_3.tar
+docker save gcr.io/kubernetes-helm/tiller:v2.9.1 -o  gcr_ioTkubernetes-helmTtillerVVv2_9_1.tar
+docker save k8s.gcr.io/heapster:v1.5.2 -o  k8s_gcr_ioTheapsterVVv1_5_2.tar
+
+
+================================================================================================================================================
+
+
+docker save k8s.gcr.io/pause-amd64:3.1 -o  k8s_gcr_ioTpause-amd64VV3_1.tar
+docker save k8s.gcr.io/pause:3.1 -o  k8s_gcr_ioTpauseVV3_1.tar
+docker save mirrorgooglecontainers/pause:3.1 -o  mirrorgooglecontainersTpauseVV3_1.tar
+docker save registry.cn-hangzhou.aliyuncs.com/google_containers/pause-amd64:3.1 -o  registry_cn-hangzhou_aliyuncs_comTgoogle_containersTpause-amd64VV3_1.tar
+docker save k8s.gcr.io/defaultbackend:1.4 -o  k8s_gcr_ioTdefaultbackendVV1_4.tar
+docker save migmartri/prerender:latest -o  migmartriTprerenderVVlatest.tar
+docker save k8s.gcr.io/addon-resizer:1.7 -o  k8s_gcr_ioTaddon-resizerVV1_7.tar
+docker save gcr.io/abayer-jx-experiment/webhook:v20190508-91b53326 -o  gcr_ioTabayer-jx-experimentTwebhookVVv20190508-91b53326.tar
+docker save gcr.io/abayer-jx-experiment/nop:v20190508-91b53326 -o  gcr_ioTabayer-jx-experimentTnopVVv20190508-91b53326.tar
+docker save gcr.io/abayer-jx-experiment/controller:v20190508-91b53326 -o  gcr_ioTabayer-jx-experimentTcontrollerVVv20190508-91b53326.tar
